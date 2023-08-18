@@ -35,3 +35,14 @@
     background-color: white;
     color: black;
 }
+
+.item2{
+    width: 80%;
+    height: 50px;
+    background-color: purple;
+    color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
